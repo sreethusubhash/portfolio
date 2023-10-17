@@ -1,0 +1,10 @@
+body{
+    background-color :aliceblue;
+    font-family: "Helvetica Neue",'Arial Narrow';
+    font-size:medium;
+}
+.container{
+    height: 50%;
+    width:50%;
+    margin:0 auto;
+}
